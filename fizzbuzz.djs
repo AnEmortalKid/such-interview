@@ -18,6 +18,5 @@ such fizzbuzz much n
 wow result
 
 much n as 1 next n smaller 101 next n as n + 1
- very result is plz fizzbuzz with n
- console dose log with result
+ console dose log(fizzbuzz with n)
 wow
