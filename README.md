@@ -18,6 +18,7 @@ A repository of iconic interview questions solved with [dogescript](https://gith
 These questions were pulled from the following sources:
 * https://stackoverflow.com/questions/117812/alternate-fizzbuzz-questions
 * http://codercareer.blogspot.com
+* http://blog.craigtp.co.uk/post/Alternative-FizzBuzz-style-Interview-Questions
 
 # Running
 
@@ -38,3 +39,8 @@ You can install any dependencies for this repository with `npm install`.
 # [fibonnacci](fibonacci.djs)
 
 > Please implement a function which returns the nth number in Fibonacci sequences with an input n. [:page_facing_up:](http://codercareer.blogspot.com/2011/10/no-15-fibonacci-sequences.html)
+
+# [palindromes](palindromes.djs)
+
+> Check if a given string is a palindrome without using a built-in string.Reverse function.
+[:page_facing_up:](http://blog.craigtp.co.uk/post/Alternative-FizzBuzz-style-Interview-Questions)
