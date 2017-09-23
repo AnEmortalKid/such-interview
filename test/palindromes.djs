@@ -1,7 +1,9 @@
-shh test it
-very tests is new Array with 'anita lava la tina', "anna", "ana", "aca", "121", "1234", "11111"
-much n as 0 next n smaller tests.length next n++
-  very result is plz palindrome with tests[n]
-  very msg is tests[n] + '=>' + result
-  plz console.log with msg
-wow
+so ../fixture/srs as srs
+
+srs dose troof with palindrome 'anita lava la tina'
+srs dose troof with palindrome 'anna'
+srs dose troof with palindrome 'ana'
+srs dose troof with palindrome 'aca'
+srs dose troof with palindrome '121'
+srs dose liez with palindrome '1234'
+srs dose troof with palindrome '11111'

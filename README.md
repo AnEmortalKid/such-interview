@@ -23,11 +23,10 @@ These questions were pulled from the following sources:
 
 # Running
 
-All the samples in this repository can be ran with **npm** via npm through the `doge` script command, eg:
+All the samples in this repository can be ran with via `npm`:
 
-```bash
-npm run doge fizzbuzz.djs
-```
+* `single-test`: runs the test for the given file, eg: `npm run single-test fizzbuzz.djs` will run the test in `test/fizzbuzz.djs`
+* `test`: runs the whole test-suite, eg: `npm test` will run every `.djs` test file under the **test** directory
 
 You can install any dependencies for this repository with `npm install`.
 

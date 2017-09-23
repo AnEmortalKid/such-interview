@@ -8,12 +8,14 @@
     "url": "https://github.com/AnEmortalKid/such-interview.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "doge": "node ./rundoge.js"
+    "test": "npm run test:make && node ./test/runtests.js",
+    "test:make": "dogescript fixture/srs.djs > fixture/srs.js",
+    "single-test": "npm run test:make && node ./test/runtest.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dogescript": "^2.3.0"
+    "dogescript": "^2.3.0",
+    "tape": "^4.8.0"
   }
 }
