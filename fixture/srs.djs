@@ -1,6 +1,8 @@
 so tape as test
 
-exports.srsly = function(f,input,expected) {
+shh dogescript 2.3 doens't have annon funcs :(
+
+exports.srsly is such a much f input expected
     
     very fName is f.name+'('+input+')'
     plz test with fName much t
@@ -12,9 +14,10 @@ exports.srsly = function(f,input,expected) {
       t dose end
       
     wow&
-}
+    
+wow
 
-exports.troof = function(f,input) {
+exports.troof is such a much f input 
 
     very fName is f.name+'('+input+')'
     plz test with fName much t
@@ -26,9 +29,10 @@ exports.troof = function(f,input) {
       t dose end
       
     wow&
-}
+    
+wow
 
-exports.liez = function(f,input) {
+exports.liez is such a much f input
 
     very fName is f.name+'('+input+')'
     plz test with fName much t
@@ -40,4 +44,5 @@ exports.liez = function(f,input) {
       t dose end
       
     wow&
-}
+    
+wow
