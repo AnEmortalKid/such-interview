@@ -1,3 +1,5 @@
+shh cerner_2^5_2017
+
 remember is new Map
 
 such collatz much n
@@ -7,8 +9,8 @@ such collatz much n
   wow 0
   
   very stored is remember dose get with n
-    rly stored
-    wow stored
+  rly stored
+  wow stored
   
   shh store it
   
