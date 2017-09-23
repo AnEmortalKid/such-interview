@@ -22,3 +22,7 @@ eval(dogescript(source));
 // load the test
 console.log('Running test: ' + testFile);
 eval(dogescript(test));
+
+// remove the srs lib
+var srsCompile = path.join('fixture','srs.js');
+fs.unlinkSync(srsCompile);
