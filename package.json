@@ -17,6 +17,8 @@
   "license": "ISC",
   "dependencies": {
     "dogescript": "^2.3.0",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.2",
     "tape": "^4.8.0"
   }
 }

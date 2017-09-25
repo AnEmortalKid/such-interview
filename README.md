@@ -55,3 +55,8 @@ You can install any dependencies for this repository with `npm install`.
 
 > The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832. Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
 [:page_facing_up:](https://projecteuler.net/problem=8)
+
+# [distinct counts](distinct_counts.djs)
+
+> Return distinct values and their counts (i.e. the list above becomes "1(3) 3(3) 5(2) 7(1)")
+[:page_facing_up:](https://stackoverflow.com/a/117891/2262802)
