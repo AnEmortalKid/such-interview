@@ -21,6 +21,7 @@ These questions were pulled from the following sources:
 * http://blog.craigtp.co.uk/post/Alternative-FizzBuzz-style-Interview-Questions
 * http://www.geeksforgeeks.org/collatz-sequence/
 * https://projecteuler.net/
+* https://www.hackerrank.com/challenges/
 
 # Running
 
@@ -60,3 +61,8 @@ You can install any dependencies for this repository with `npm install`.
 
 > Return distinct values and their counts (i.e. the list above becomes "1(3) 3(3) 5(2) 7(1)")
 [:page_facing_up:](https://stackoverflow.com/a/117891/2262802)
+
+# [balanced brackets](balanced_brackets.djs)
+> Given n strings of brackets, determine whether each sequence of brackets is balanced.
+
+[:page_facing_up:](https://www.hackerrank.com/challenges/balanced-brackets)
