@@ -10,7 +10,7 @@ exports.srsly is such a much f input expected
       very msg is fName + ' === '+expected
       very actual is plz f with input
       
-      t dose equal with expected actual msg
+      t dose equal with actual expected msg
       t dose end
       
     wow&
