@@ -22,6 +22,7 @@ These questions were pulled from the following sources:
 * http://www.geeksforgeeks.org/collatz-sequence/
 * https://projecteuler.net/
 * https://www.hackerrank.com/challenges/
+* https://www.codeeval.com/
 
 # Running
 
@@ -66,3 +67,7 @@ You can install any dependencies for this repository with `npm install`.
 > Given n strings of brackets, determine whether each sequence of brackets is balanced.
 
 [:page_facing_up:](https://www.hackerrank.com/challenges/balanced-brackets)
+
+# [beautiful strings](beauty.djs)
+> Given a string s, little Johnny defined the beauty of the string as the sum of the beauty of the letters in it. The beauty of each letter is an integer between 1 and 26, inclusive, and no two letters have the same beauty. Johnny doesn't care about whether letters are uppercase or lowercase, so that doesn't affect the beauty of a letter. (Uppercase 'F' is exactly as beautiful as lowercase 'f', for example.) 
+[:page_facing_up:](https://www.codeeval.com/browse/83/)
