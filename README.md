@@ -75,3 +75,7 @@ You can install any dependencies for this repository with `npm install`.
 # [roman numerals](romans.djs)
 > Write a program to convert a cardinal number to a Roman numeral.
 [:page_facing_up:](https://www.codeeval.com/browse/106/)
+
+# [rotated array](rotated.djs)
+> Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}
+[:page_facing_up](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
