@@ -84,4 +84,4 @@ You can install any dependencies for this repository with `npm install`.
 > The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal. The eight queens puzzle is an example of the more general n queens problem of placing n non-attacking queens on an n×n chessboard, for which solutions exist for all natural numbers n with the exception of n=2 and n=3
 [:page_facing_up:](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
 
-The solving code is 30 source lines (the file contains some comments (starting with `shh`)). The board had to be passed in due to problems when loading relative libraries from `libs` with require.
+The solving code is 31 source lines (the file contains some comments (starting with `shh`)). The board had to be passed in due to problems when loading relative libraries from `libs` with require and executing the test from `/test`.

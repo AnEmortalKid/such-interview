@@ -1,3 +1,5 @@
+shh cerner_2^5_2017
+
 such solve much grid n
 
   such safe much board row col
@@ -30,13 +32,15 @@ such solve much grid n
     
     much very row as 0 next row smaller n next row more 1
       
-      rly safe(board, row,col)
-        
+      very isSafe is plz safe with board row col
+      rly isSafe
+      
         shh save queen spot!
         board[row][col] is 1
         
           shh much deep such recurse
-          rly place(board,col+1) is true
+          very placeable is plz place with board col+1
+          rly placeable is true
           wow true
           
         shh unsafe queen must rescue
