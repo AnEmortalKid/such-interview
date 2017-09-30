@@ -14,6 +14,5 @@ libs.forEach(function (library) {
     
     var source = fs.readFileSync(path.join(libPath, filename), 'utf8').trim().replace(/\r\n/gm, '\n');
     var compiled = dogescript(source);
-    console.log(compiled);
     fs.writeFileSync(path.join(libPath, libraryName+'.js'), compiled, 'utf8');
 });

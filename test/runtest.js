@@ -1,6 +1,7 @@
 dogescript = require('dogescript');
 
 var fs = require('fs');
+var glob = require('glob');
 var path = require('path');
 
 console.log('Testing: '+  process.argv[2] + "=>");

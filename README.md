@@ -78,4 +78,10 @@ You can install any dependencies for this repository with `npm install`.
 
 # [rotated array](rotated.djs)
 > Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}
-[:page_facing_up](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
+[:page_facing_up:](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
+
+# [nqueens](nqueens.djs)
+> The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal. The eight queens puzzle is an example of the more general n queens problem of placing n non-attacking queens on an n×n chessboard, for which solutions exist for all natural numbers n with the exception of n=2 and n=3
+[:page_facing_up:](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
+
+The solving code is 30 source lines (the file contains some comments (starting with `shh`)). The board had to be passed in due to problems when loading relative libraries from `libs` with require.

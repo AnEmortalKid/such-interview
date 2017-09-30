@@ -12,7 +12,7 @@
     "single-test": "npm run libs:make && node ./test/runtest.js",
     "libs:make": "node ./compileLibs.js",
     "libs:clean": "rm ./libs/*.js",
-    "doge" : "npm run libs:make && node ./runscript.js"
+    "doge": "npm run libs:make && node ./runscript.js"
   },
   "author": "",
   "license": "ISC",
