@@ -1,4 +1,4 @@
-so ../fixture/srs as srs
+so ../libs/srs as srs
 
 srs dose srsly with fizzbuzz 1 1
 srs dose srsly with fizzbuzz 2 2

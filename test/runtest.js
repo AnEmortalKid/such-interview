@@ -23,6 +23,9 @@ eval(dogescript(source));
 console.log('Running test: ' + testFile);
 eval(dogescript(test));
 
-// remove the srs lib
-var srsCompile = path.join('fixture','srs.js');
-fs.unlinkSync(srsCompile);
+// remove the compiledlibraries
+var compiledLibs = glob.sync('libs/*.js');
+compiledLibs.forEach(function (libFile) {
+   console.log('Removing compiled library:'+path.basename(libFile, '.js'));
+   fs.unlinkSync(libFile);
+});

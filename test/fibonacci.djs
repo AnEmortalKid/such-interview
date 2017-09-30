@@ -1,4 +1,4 @@
-so ../fixture/srs as srs
+so ../libs/srs as srs
 
 shh http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibtable.html
 

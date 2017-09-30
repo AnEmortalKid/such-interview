@@ -1,4 +1,4 @@
-so ../fixture/srs as srs
+so ../libs/srs as srs
 
 srs dose srsly with beauty "ABbCcc" 152
 srs dose srsly with beauty "Good luck in the Facebook Hacker Cup this year!" 754

@@ -1,4 +1,4 @@
-so ../fixture/srs as srs
+so ../libs/srs as srs
 
 srs dose troof with palindrome 'anita lava la tina'
 srs dose troof with palindrome 'anna'
