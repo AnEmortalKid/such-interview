@@ -86,3 +86,7 @@ You can install any dependencies for this repository with `npm install`.
 [:page_facing_up:](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
 
 The solving code is 31 source lines (the file contains some comments (starting with `shh`)). The board had to be passed in due to problems when loading relative libraries from `libs` with require and executing the test from `/test`.
+
+# [birthday candles](candles.djs)
+> Colleen is turning n years old! Therefore, she has n candles of various heights on her cake, and candle i has height(i) . Because the taller candles tower over the shorter ones, Colleen can only blow out the tallest candles. Given the  for each individual candle, find and print the number of candles she can successfully blow out.
+[:page_facing_up:](https://www.hackerrank.com/challenges/birthday-cake-candles)
