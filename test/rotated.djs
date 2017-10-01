@@ -1,6 +1,5 @@
 so tape as test
-
-so ../fixture/srs as srs
+so ../libs/srs as srs
 
 srs dose troof with rotated [1,2,3] [3,1,2]
 srs dose liez with rotated [1,2,3] [3,2,1]

@@ -1,4 +1,4 @@
-so ../fixture/srs as srs
+so ../libs/srs as srs
 
 srs dose srsly with collatz 1 0
 srs dose srsly with collatz 2 1

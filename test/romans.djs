@@ -1,4 +1,4 @@
-so ../fixture/srs as srs
+so ../libs/srs as srs
 
 shh tests from codeval
 srs dose srsly with romans 159 "CLIX"
