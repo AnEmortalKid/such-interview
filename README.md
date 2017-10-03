@@ -90,3 +90,7 @@ The solving code is 31 source lines (the file contains some comments (starting w
 # [birthday candles](candles.djs)
 > Colleen is turning n years old! Therefore, she has n candles of various heights on her cake, and candle i has height(i) . Because the taller candles tower over the shorter ones, Colleen can only blow out the tallest candles. Given the  for each individual candle, find and print the number of candles she can successfully blow out.
 [:page_facing_up:](https://www.hackerrank.com/challenges/birthday-cake-candles)
+
+# [rollercoaster aka spongebobify](spongebobify.djs)
+> Print to stdout the RoLlErCoAsTeR case version of the string.
+[:page_facing_up:](https://www.codeeval.com/open_challenges/156/)
