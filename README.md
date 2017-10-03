@@ -32,6 +32,12 @@ All the samples in this repository can be ran with via `npm`:
 * `single-test`: runs the test for the given file, eg: `npm run single-test fizzbuzz.djs` will run the test in `test/fizzbuzz.djs`
 * `test`: runs the whole test-suite, eg: `npm test` will run every `.djs` test file under the **test** directory
 
+You'll need Node 6.x (a node that supports ECMA 6). You can check this with `node -p process.versions.v8`, for reference this is what I'm using:
+```bash
+$ node -p process.versions.v8
+6.0.287.53
+```
+
 You can install any dependencies for this repository with `npm install`.
 
 # [fizzbuzz](fizzbuzz.djs)
@@ -94,3 +100,7 @@ The solving code is 31 source lines (the file contains some comments (starting w
 # [rollercoaster aka spongebobify](spongebobify.djs)
 > Print to stdout the RoLlErCoAsTeR case version of the string.
 [:page_facing_up:](https://www.codeeval.com/open_challenges/156/)
+
+# [staircase](staircase.djs)
+> Consider a staircase of size n = 4. Observe that its base and height are both equal to n, and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces. Write a program that prints a staircase of size n.
+[:page_facing_up:](https://www.hackerrank.com/challenges/staircase)
