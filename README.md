@@ -104,3 +104,7 @@ The solving code is 31 source lines (the file contains some comments (starting w
 # [staircase](staircase.djs)
 > Consider a staircase of size n = 4. Observe that its base and height are both equal to n, and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces. Write a program that prints a staircase of size n.
 [:page_facing_up:](https://www.hackerrank.com/challenges/staircase)
+
+# [binary](binary.djs)
+> Write a function that prints out the binary form of an int
+[:page_facing_up:](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
