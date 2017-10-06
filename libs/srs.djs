@@ -11,7 +11,11 @@ exports.srsly is such a much f input expected
       very msg is testName + ' === '+expected
       very actual is plz f with input
       
-      t dose equal with actual expected msg
+      rly actual instanceof Array
+        t dose deepEqual with actual expected msg
+      but
+        t dose equal with actual expected msg
+      wow
       t dose end
       
     wow&
