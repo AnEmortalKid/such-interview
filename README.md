@@ -112,3 +112,7 @@ The solving code is 31 source lines (the file contains some comments (starting w
 # [grading](grading.djs)
 > Given the initial value of grade for each of Sam's  students, write code to automate the rounding process. For each grade(i), round it according to the rules above and print the result on a new line.
 [:page_facing_up:](https://www.hackerrank.com/challenges/grading)
+
+# [cards (real fake)](cards.djs)
+> To determine which credit cards are real, double every third number starting from the first one, add them together, and then add them to those figures that were not doubled. If the total sum of all numbers is divisible by 10 without remainder, then this credit card is real. 
+[:page_facing_up:](https://www.codeeval.com/open_challenges/227/)
