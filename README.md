@@ -112,3 +112,7 @@ The solving code is 31 source lines (the file contains some comments (starting w
 # [grading](grading.djs)
 > Given the initial value of grade for each of Sam's  students, write code to automate the rounding process. For each grade(i), round it according to the rules above and print the result on a new line.
 [:page_facing_up:](https://www.hackerrank.com/challenges/grading)
+
+# [list replication (replicator)](replicator.djs)
+> Given a list, repeat each element in the list n amount of times.
+[:page_facing_up:](https://www.hackerrank.com/challenges/fp-list-replication)
