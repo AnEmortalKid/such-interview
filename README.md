@@ -143,6 +143,6 @@ The solving code is 31 source lines (the file contains some comments (starting w
 > Given a list, repeat each element in the list n amount of times.
 [:page_facing_up:](https://www.hackerrank.com/challenges/fp-list-replication)
 
-# [pascal's traingle](pascal.djs)
+# [pascal's triangle](pascal.djs)
 > For a given integer K, print the first K rows of Pascal's Triangle. 
 [:page_facing_up:](https://www.hackerrank.com/challenges/pascals-triangle)
