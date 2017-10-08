@@ -13,7 +13,7 @@
 ```
 
 
-A repository of iconic interview questions solved with [dogescript](https://github.com/dogescript/dogescript)
+A repository of programming interview questions solved with [dogescript](https://github.com/dogescript/dogescript)
 
 These questions were pulled from the following sources:
 * https://stackoverflow.com/questions/117812/alternate-fizzbuzz-questions
@@ -24,6 +24,28 @@ These questions were pulled from the following sources:
 * https://www.hackerrank.com/challenges/
 * https://www.codeeval.com/
 * https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/
+
+# Table of Problems
+
+* [fizzbuzz](#fizzbuzz)
+* [fibonnacci](#fibonnacci)
+* [palindromes](#palindromes)
+* [collatz](#collatz)
+* [euler #8](#euler-8)
+* [distinct counts](#distinct-counts)
+* [balanced brackets](#balanced-brackets)
+* [beautiful strings](#beautiful-strings)
+* [roman numerals](#roman-numerals)
+* [rotated array](#rotated-array)
+* [nqueens](#nqueens)
+* [birthday candles](#birthday-candles)
+* [rollercoaster](#rollercoaster-aka-spongebobify)
+* [staircase](#staircase)
+* [binary](#binary)
+* [grading](#grading)
+* [cards (real fake)](#cards-real-fake)
+* [list replication (replicator)[(#list-replication-replicator)
+* [Pascal's Triangle](#pascals-triangle)
 
 # Running
 
