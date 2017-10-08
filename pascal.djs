@@ -1,3 +1,5 @@
+shh cerner_2^5_2017
+
 such nextRow much previous
 
   shh every row begins with 1
@@ -27,7 +29,4 @@ such pascal much n
   wow
   
 wow rows
-
-very result is plz pascal with 1
-plz console.log with result
 
