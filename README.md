@@ -44,7 +44,7 @@ These questions were pulled from the following sources:
 * [binary](#binary)
 * [grading](#grading)
 * [cards (real fake)](#cards-real-fake)
-* [list replication (replicator)[(#list-replication-replicator)
+* [list replication (replicator)](#list-replication-replicator)
 * [Pascal's Triangle](#pascals-triangle)
 
 # Running
