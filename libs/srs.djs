@@ -8,7 +8,6 @@ exports.srsly is such a much f
   very expected is args[args.length-1]
   very inputs is args dose slice with 1 args.length-1
   
-  plz console.log with expected
   very argCall is argStr dose apply with this inputs
   very testName is f.name+'('+argCall+')'
   
