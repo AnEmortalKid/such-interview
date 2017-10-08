@@ -27,7 +27,7 @@ These questions were pulled from the following sources:
 
 # Running
 
-All the samples in this repository can be ran with via `npm`:
+All the samples in this repository can be ran via `npm`:
 
 * `single-test`: runs the test for the given file, eg: `npm run single-test fizzbuzz.djs` will run the test in `test/fizzbuzz.djs`
 * `test`: runs the whole test-suite, eg: `npm test` will run every `.djs` test file under the **test** directory
