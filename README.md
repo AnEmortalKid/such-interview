@@ -46,6 +46,7 @@ These questions were pulled from the following sources:
 * [cards (real fake)](#cards-real-fake)
 * [list replication (replicator)](#list-replication-replicator)
 * [Pascal's Triangle](#pascals-triangle)
+* [set intersection](#set-intersection)
 
 # Running
 
@@ -165,3 +166,8 @@ The solving code is 31 source lines (the file contains some comments (starting w
 > For a given integer K, print the first K rows of Pascal's Triangle. 
 
 [View problem prompt](https://www.hackerrank.com/challenges/pascals-triangle) | [View Tests](test/pascal.djs)
+
+# [set intersection](intersect.djs)
+> You are given two sorted list of numbers (ascending order). The lists themselves are comma delimited and the two lists are semicolon delimited. Print out the intersection of these two sets.
+
+[View problem prompt](https://www.codeeval.com/open_challenges/30/) | [View Tests](test/intersect.djs)
