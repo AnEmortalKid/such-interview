@@ -171,3 +171,8 @@ The solving code is 31 source lines (the file contains some comments (starting w
 > You are given two sorted list of numbers (ascending order). The lists themselves are comma delimited and the two lists are semicolon delimited. Print out the intersection of these two sets.
 
 [View problem prompt](https://www.codeeval.com/open_challenges/30/) | [View Tests](test/intersect.djs)
+
+# [string mingling](mingle.djs)
+> You are given two strings P (Pawel's favorite) and Q (Shaka's favorite), determine the mingled string R.
+
+[View problem prompt](https://www.hackerrank.com/challenges/string-mingling) | [View Tests](test/mingle.djs)
