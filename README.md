@@ -47,6 +47,7 @@ These questions were pulled from the following sources:
 * [list replication (replicator)](#list-replication-replicator)
 * [Pascal's Triangle](#pascals-triangle)
 * [set intersection](#set-intersection)
+* [string mingling](#string-mingling)
 
 # Running
 
