@@ -48,6 +48,7 @@ These questions were pulled from the following sources:
 * [Pascal's Triangle](#pascals-triangle)
 * [set intersection](#set-intersection)
 * [string mingling](#string-mingling)
+# [trailing](#trailing)
 
 # Running
 
@@ -177,3 +178,8 @@ The solving code is 31 source lines (the file contains some comments (starting w
 > You are given two strings P (Pawel's favorite) and Q (Shaka's favorite), determine the mingled string R.
 
 [View problem prompt](https://www.hackerrank.com/challenges/string-mingling) | [View Tests](test/mingle.djs)
+
+# [trailing](trailing.djs)
+> There are two strings: A and B. Print 1 if string B occurs at the end of string A. Otherwise, print 0.
+
+[View problem prompt](https://www.codeeval.com/open_challenges/32/) | [View Tests](test/trailing.djs)
