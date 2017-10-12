@@ -49,6 +49,7 @@ These questions were pulled from the following sources:
 * [set intersection](#set-intersection)
 * [string mingling](#string-mingling)
 # [trailing](#trailing)
+# [multiply lists](#multiply-lists)
 
 # Running
 
@@ -183,3 +184,10 @@ The solving code is 31 source lines (the file contains some comments (starting w
 > There are two strings: A and B. Print 1 if string B occurs at the end of string A. Otherwise, print 0.
 
 [View problem prompt](https://www.codeeval.com/open_challenges/32/) | [View Tests](test/trailing.djs)
+
+# [multiply lists](multiply_lists.djs)
+> You have 2 lists of positive integers. Write a program which multiplies corresponding elements in these lists.
+
+[View problem prompt](https://www.codeeval.com/open_challenges/113/) | [View Tests](test/multiply_lists.djs)
+
+
