@@ -48,8 +48,8 @@ These questions were pulled from the following sources:
 * [Pascal's Triangle](#pascals-triangle)
 * [set intersection](#set-intersection)
 * [string mingling](#string-mingling)
-# [trailing](#trailing)
-# [multiply lists](#multiply-lists)
+* [trailing](#trailing)
+* [multiply lists](#multiply-lists)
 
 # Running
 
