@@ -193,11 +193,12 @@ The solving code is 31 source lines (the file contains some comments (starting w
 
 [View problem prompt](https://www.codeeval.com/open_challenges/113/) | [View Tests](test/multiply_lists.djs)
 
-
 # [super digit](super.djs)
 > You are given two numbers n and k. You have to calculate the super digit of P.
+
 [View problem prompt](https://www.hackerrank.com/challenges/super-digit) | [View Tests](tests/super.djs)
 
 # [letter changes](letterchanges.djs)
 >  Replace every letter in the string with the letter following it in the alphabet (ie. c becomes d, z becomes a). Then capitalize every vowel in this new string (a, e, i, o, u) and finally return this modified string. 
+
 [View problem prompt](https://coderbyte.com/editor/guest:Letter%20Changes:JavaScript) | [View Tests](tests/letterchanges.djs)
