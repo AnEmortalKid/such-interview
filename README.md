@@ -50,6 +50,7 @@ These questions were pulled from the following sources:
 * [string mingling](#string-mingling)
 * [trailing](#trailing)
 * [multiply lists](#multiply-lists)
+* [super digit](#super-digit)
 
 # Running
 
@@ -191,3 +192,6 @@ The solving code is 31 source lines (the file contains some comments (starting w
 [View problem prompt](https://www.codeeval.com/open_challenges/113/) | [View Tests](test/multiply_lists.djs)
 
 
+# [super digit](super.djs)
+> You are given two numbers n and k. You have to calculate the super digit of P.
+[View problem prompt](https://www.hackerrank.com/challenges/super-digit) | [View Tests](tests/super.djs)
