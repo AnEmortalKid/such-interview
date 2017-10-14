@@ -24,6 +24,7 @@ These questions were pulled from the following sources:
 * https://www.hackerrank.com/challenges/
 * https://www.codeeval.com/
 * https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/
+* https://coderbyte.com/
 
 # Table of Problems
 
@@ -51,6 +52,7 @@ These questions were pulled from the following sources:
 * [trailing](#trailing)
 * [multiply lists](#multiply-lists)
 * [super digit](#super-digit)
+* [letter changes](#letter-changes)
 
 # Running
 
@@ -195,3 +197,7 @@ The solving code is 31 source lines (the file contains some comments (starting w
 # [super digit](super.djs)
 > You are given two numbers n and k. You have to calculate the super digit of P.
 [View problem prompt](https://www.hackerrank.com/challenges/super-digit) | [View Tests](tests/super.djs)
+
+# [letter changes](letterchanges.djs)
+>  Replace every letter in the string with the letter following it in the alphabet (ie. c becomes d, z becomes a). Then capitalize every vowel in this new string (a, e, i, o, u) and finally return this modified string. 
+[View problem prompt](https://coderbyte.com/editor/guest:Letter%20Changes:JavaScript) | [View Tests](tests/letterchanges.djs)
