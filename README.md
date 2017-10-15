@@ -212,3 +212,5 @@ The solving code is 31 source lines (the file contains some comments (starting w
 >  Difference between the number of yellow balls and blue balls in every prefix of the sequence is at most 1.
 
 [View problem prompt](https://www.hackerrank.com/challenges/sequence-full-of-colors) | [View Tests](tests/full_colors.djs)
+
+This submission is 31 lines of source. Granted, I wiggled around a bit with that multi OR condition and calling `counts.get()` (since dogescript 2.3.0 doesn't support proper precedence, I would have had to assign each color count to a variable and used `counts dose get with LETTER` and that would have put me at 35 lines.)
