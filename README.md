@@ -53,6 +53,7 @@ These questions were pulled from the following sources:
 * [multiply lists](#multiply-lists)
 * [super digit](#super-digit)
 * [letter changes](#letter-changes)
+* [sequence of full colors](#full-colors)
 
 # Running
 
@@ -202,3 +203,12 @@ The solving code is 31 source lines (the file contains some comments (starting w
 >  Replace every letter in the string with the letter following it in the alphabet (ie. c becomes d, z becomes a). Then capitalize every vowel in this new string (a, e, i, o, u) and finally return this modified string. 
 
 [View problem prompt](https://coderbyte.com/editor/guest:Letter%20Changes:JavaScript) | [View Tests](tests/letterchanges.djs)
+
+# [full colors](full_colors.djs)
+> You are given a sequence of N balls in 4 colors: red, green, yellow and blue. The sequence is full of colors if and only if all of the following conditions are true:
+>  There are as many red balls as green balls.
+>  There are as many yellow balls as blue balls.
+>  Difference between the number of red balls and green balls in every prefix of the sequence is at most 1.
+>  Difference between the number of yellow balls and blue balls in every prefix of the sequence is at most 1.
+
+[View problem prompt](https://www.hackerrank.com/challenges/sequence-full-of-colors) | [View Tests](tests/full_colors.djs)
