@@ -54,6 +54,8 @@ These questions were pulled from the following sources:
 * [super digit](#super-digit)
 * [letter changes](#letter-changes)
 * [sequence of full colors](#full-colors)
+* [find a writer](#find-a-writer)
+* [traveling salesman polynomial time solution](#traveling-salesman-polynomial-solution)
 
 # Running
 
@@ -214,3 +216,13 @@ The solving code is 31 source lines (the file contains some comments (starting w
 [View problem prompt](https://www.hackerrank.com/challenges/sequence-full-of-colors) | [View Tests](tests/full_colors.djs)
 
 This submission is 31 lines of source. Granted, I wiggled around a bit with that multi OR condition and calling `counts.get()` (since dogescript 2.3.0 doesn't support proper precedence, I would have had to assign each color count to a variable and used `counts dose get with LETTER` and that would have put me at 35 lines.)
+
+# [find a writer](writer.djs)
+> You have a set of rows with names of famous writers encoded inside. Each row is divided into 2 parts by pipe char (|). The first part has a writer's name. The second part is a "key" to generate a name.
+
+[View problem prompt](https://www.codeeval.com/open_challenges/97/) | [View Tests](tests/writer.djs)
+
+# [traveling salesman polynomial solution](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+> Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?
+
+[View problem prompt](https://en.wikipedia.org/wiki/Travelling_salesman_problem) | [View Tests](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
