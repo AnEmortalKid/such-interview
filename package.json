@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dogescript": "^2.3.0",
+    "dogescript": "^2.4.2",
     "fs": "0.0.1-security",
-    "glob": "^7.1.2",
-    "tape": "^4.8.0"
+    "glob": "^7.2.0",
+    "tape": "^4.15.1"
   }
 }

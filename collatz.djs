@@ -14,14 +14,14 @@ such collatz much n
   
   shh store it
   
-  very next is n
+  very nextNum is n
   rly n % 2 is 0
-    next is n/2
+    nextNum is n/2
   but
-    next is 3*n+1
+    nextNum is 3*n+1
   wow
   
-  very result is plz collatz with next
+  very result is plz collatz with nextNum
   result is result+1
   remember dose set with n result
 
